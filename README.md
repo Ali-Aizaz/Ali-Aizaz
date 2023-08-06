@@ -6,4 +6,5 @@ I’m Ali, and I develop web applications. I enjoy creating complex UIs and anim
 Skills: NEXT JS / REACT / Node JS / Tailwind CSS / TS / JS / HTML / CSS
 
 - 🔭 I’m currently working on Web3 Social DAPP 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning Rust, Solidity, Web3.
+ 
